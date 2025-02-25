@@ -1,8 +1,7 @@
 # Group "Hack & Stack"
 
 ## Members
-- s348721 DI MAIO ANDREA
-- s123456 GIULIA POLLINI
+
 
 
 # Exercise "NAME OF EXERCISE"
